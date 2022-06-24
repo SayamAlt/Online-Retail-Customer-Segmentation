@@ -1,6 +1,6 @@
 # Online-Retail-Customer-Segmentation
 
-![Customer Segmentation](https://raw.githubusercontent.com/Masterx-AI/Project_Customer_Segmentation_/main/customer_segmentation.png)
+![Customer Segmentation](https://www.appice.io/wp-content/uploads/2020/09/Webp.net-resizeimage-15.png)
 ![Customer Segmentation](https://www.fanview.tech/wp-content/uploads/2021/12/Customer-Segmentation-Featured-Image-3.png)
 ![Customer Segmentation](https://miro.medium.com/max/700/1*7NLVQmn87OAJTUaavf-MoQ.png)
 
@@ -48,6 +48,7 @@ This is a transnational data set which contains all the transactions occurring b
     <td>Country name. Nominal, the name of the country where each customer resides.</td>
   </tr>
 </table>
+
 ## Relevant Papers
 
 <ul>
