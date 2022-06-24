@@ -1,8 +1,8 @@
 # Online-Retail-Customer-Segmentation
 
-![Customer Segmentation](https://www.appice.io/wp-content/uploads/2020/09/Webp.net-resizeimage-15.png)
-
 ## Context
+
+![Customer Segmentation](https://www.appice.io/wp-content/uploads/2020/09/Webp.net-resizeimage-15.png)
 
 <p>Customer segmentation is the process by which you divide your customers up based on common characteristics – such as demographics or behaviors, so you can market to those customers more effectively. These customer segmentation groups can also be used to begin discussions of building a marketing persona. This is because customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective.</p>
 
