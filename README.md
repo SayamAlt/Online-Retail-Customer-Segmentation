@@ -1,7 +1,15 @@
 # Online-Retail-Customer-Segmentation
 
 ![Customer Segmentation](https://www.appice.io/wp-content/uploads/2020/09/Webp.net-resizeimage-15.png)
+
+## Context
+
+<p>Customer segmentation is the process by which you divide your customers up based on common characteristics – such as demographics or behaviors, so you can market to those customers more effectively. These customer segmentation groups can also be used to begin discussions of building a marketing persona. This is because customer segmentation is typically used to inform a brand’s messaging, positioning and to improve how a business sells – so marketing personas need to be closely aligned to those customer segments in order to be effective.</p>
+
 ![Customer Segmentation](https://www.fanview.tech/wp-content/uploads/2021/12/Customer-Segmentation-Featured-Image-3.png)
+
+<p>Customer segmentation is popular because it helps you market and sell more effectively. This is because you can develop a better understanding of your customers’ needs and desires. The business impact of doing this is even more important, and effective customer segmentation will help you to increase customer lifetime value. This means they will stay longer, and spend more. By better understanding the customer, and therefore being able to target them more effectively, you can drive greater loyalty.</p>
+
 ![Customer Segmentation](https://miro.medium.com/max/700/1*7NLVQmn87OAJTUaavf-MoQ.png)
 
 ## Data Set Information
